@@ -2,7 +2,6 @@
 
 > I make circuits, code and data play nicely together.
 
-<img align="right" src="nithin-punctuation-portrait.svg" alt="My portrait, made using only dots and commas" width="280" />
 
 Electrical & Electronics Engineering student at **Amrita Vishwa Vidyapeetham**, exploring **power electronics, battery health prediction, and renewable energy instrumentation**.
 
