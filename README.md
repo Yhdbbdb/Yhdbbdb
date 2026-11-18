@@ -1,8 +1,25 @@
 # Hi, I'm Nithin Aadhav
 
-Electrical & Electronics Engineering student exploring **power electronics, battery health prediction, and renewable energy instrumentation**.
+> I make circuits, code and data play nicely together.
+
+<img align="right" src="nithin-punctuation-portrait.svg" alt="My portrait, made using only dots and commas" width="280" />
+
+Electrical & Electronics Engineering student at **Amrita Vishwa Vidyapeetham**, exploring **power electronics, battery health prediction, and renewable energy instrumentation**.
 
 I work across circuit design, simulation, sensor measurements, and machine learning to study engineering problems.
+
+## About me
+
+I enjoy connecting the physical and digital sides of engineering: designing circuits, modeling their behavior, collecting sensor measurements, and learning from data. My projects span GaN power electronics, battery analytics, and energy instrumentation.
+
+- **Hardware:** circuit schematics, PCB layouts, and Arduino instrumentation.
+- **Simulation:** electrical models and switching behavior in MATLAB/Simulink, Simscape, and LTspice.
+- **Data:** Python and MATLAB workflows for prediction, comparison, and evaluation.
+- **Current focus:** clearer documentation, reproducible experiments, and useful engineering examples.
+
+[Connect with me on LinkedIn](https://www.linkedin.com/in/nithinaadhav/)
+
+<br clear="right" />
 
 ## Featured projects
 
